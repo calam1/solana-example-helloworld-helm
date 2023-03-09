@@ -1,0 +1,16 @@
+{
+  "ignores": [
+    {
+      "id": "conftest-envoyfilter-no-global-ratelimiter",
+      "reason": "We don't need a global ratelimiter"
+    },
+    {
+      "id": "deployment-has-host-podantiaffinity",
+      "reason": "There will only ever be one replica"
+    },
+    {
+      "id": "fmea",
+      "reason": "We completed our last FMEA on 3/5/2023"
+    }
+  ]
+}
