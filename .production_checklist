@@ -1,7 +1,7 @@
 {
   "ignores": [
     {
-      "id": "conftest-envoyfilter-no-global-ratelimiter",
+      "id": "conftest-envoyfilter-no-global-ratelimiter-inbound",
       "reason": "We don't need a global ratelimiter"
     },
     {
