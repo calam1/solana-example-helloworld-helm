@@ -1,3 +1,0 @@
-jobs:
-  k6-tests:
-    name: k6-tests
